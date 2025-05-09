@@ -38,6 +38,12 @@
   <li><strong>IBM Worklight:</strong> Mobile application platform (Versions 7, 8, 9)</li>
 </ul>
 
+<h4>🔌 Networking Libraries</h4>
+<ul>
+  <li><strong>KMM-Compatible:</strong> Ktor</li>
+  <li><strong>Android-Only:</strong> Retrofit, Volley</li>
+</ul>
+
 <h4>🧑‍💻 Version Control</h4>
 <ul>
   <li><strong>Tools:</strong> Git, GitHub, GitLab, SVN (TortoiseSVN)</li>
