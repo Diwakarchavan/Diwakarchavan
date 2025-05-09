@@ -1,8 +1,8 @@
 ### 🧰 Tech Stack
-<p align="center">
+<p align="left">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="java"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" alt="android"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="kotlin"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" alt="android"/>
 </p>
 
 <h4>📱 Android Development</h4>
@@ -34,11 +34,13 @@
 <ul>
   <li><strong>Kotlin Multiplatform Mobile (KMM):</strong> Shared code for Android & iOS using Kotlin + Compose Multiplatform</li>
   <li><strong>Jetpack Compose Multiplatform:</strong> Compose for Android/Desktop/iOS (Experimental)</li>
+  <li><strong>Cordova:</strong> Hybrid mobile apps using web technologies</li>
+  <li><strong>IBM Worklight:</strong> Mobile application platform (Versions 7, 8, 9)</li>
 </ul>
 
 <h4>🧑‍💻 Version Control</h4>
 <ul>
-  <li><strong>Tools:</strong> Git, GitHub</li>
+  <li><strong>Tools:</strong> Git, GitHub, SVN (TortoiseSVN)</li>
 </ul>
 
 
