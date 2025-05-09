@@ -5,7 +5,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="40" height="40"/>
 </p>
 ### 📊 GitHub Stats
-![Profile Hits](https://komarev.com/ghpvc/?username=Diwakarchavan&color=green) \
+![Profile Hits](https://komarev.com/ghpvc/?username=Diwakarchavan&color=green) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=Diwakarchavan&show_icons=true)](https://github.com/Diwakarchavan)
 
 <p align="center">
