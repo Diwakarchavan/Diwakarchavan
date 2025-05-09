@@ -4,6 +4,8 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" alt="android"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="kotlin"/>
   <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" width="40" height="40" alt="OpenCV"/>
+  <img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" width ="40" height="40" alt="tensorflow"/>
+
 </p>
 
 <h4>📱 Android Development</h4>
