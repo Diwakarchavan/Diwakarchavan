@@ -3,6 +3,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="java"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" alt="android"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="kotlin"/>
+  <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" width="40" height="40" alt="OpenCV"/>
 </p>
 
 <h4>📱 Android Development</h4>
