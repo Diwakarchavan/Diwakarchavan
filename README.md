@@ -14,7 +14,7 @@
 
 <h4>🧩 Architecture & Dependency Injection</h4>
 <ul>
-  <li><strong>Architecture:</strong> MVVM, Clean Architecture</li>
+  <li><strong>Architecture:</strong> MVC, MVP, MVVM, Clean Architecture</li>
   <li><strong>DI Frameworks:</strong> Hilt, Koin</li>
 </ul>
 
@@ -33,14 +33,14 @@
 <h4>🌐 Cross-Platform Development</h4>
 <ul>
   <li><strong>Kotlin Multiplatform Mobile (KMM):</strong> Shared code for Android & iOS using Kotlin + Compose Multiplatform</li>
-  <li><strong>Jetpack Compose Multiplatform:</strong> Compose for Android/Desktop/iOS (Experimental)</li>
+  <li><strong>Jetpack Compose Multiplatform:</strong> Compose for Android/Desktop/iOS/Web (Experimental)</li>
   <li><strong>Cordova:</strong> Hybrid mobile apps using web technologies</li>
   <li><strong>IBM Worklight:</strong> Mobile application platform (Versions 7, 8, 9)</li>
 </ul>
 
 <h4>🧑‍💻 Version Control</h4>
 <ul>
-  <li><strong>Tools:</strong> Git, GitHub, SVN (TortoiseSVN)</li>
+  <li><strong>Tools:</strong> Git, GitHub, GitLab, SVN (TortoiseSVN)</li>
 </ul>
 
 
