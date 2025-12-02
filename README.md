@@ -7,6 +7,7 @@
   <img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" width ="40" height="40" alt="tensorflow"/>
   <img src="https://avatars.githubusercontent.com/u/3269481?s=200&v=4" width ="40" height="40" alt="myscript"/>
   <img src ="https://brandlogos.net/wp-content/uploads/2025/03/firebase_icon-logo_brandlogos.net_tcvck-768x969.png" width ="40" height="40" alt="firebase"/>
+   <img src ="https://icon.icepanel.io/Technology/svg/Ktor.svg" width ="40" height="40" alt="ktor"/>
 </p>
 
 <h4>📱 Android Development</h4>
