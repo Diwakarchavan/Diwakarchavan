@@ -1,41 +1,24 @@
 ### 🧰 Tech Stack & Expertise
 
-<p align="left">
-  <!-- Row 1: Core Languages & Android -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45" height="45" alt="Kotlin"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45" height="45" alt="Android"/>
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png" width="45" height="45" alt="Jetpack Compose"/>
-  <img src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack_donut.png" width="45" height="45" alt="Jetpack"/>
-  <img src="https://raw.githubusercontent.com/getsentry/sentry-java/main/.github/kmp-logo.png" width="45" height="45" alt="Kotlin Multiplatform"/>
-  <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" width="45" height="45" alt="Gradle"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-</p>
 
+### 🧰 Tech Stack
 <p align="left">
-  <!-- Row 2: Networking & Backend -->
-  <img src="https://icon.icepanel.io/Technology/svg/Ktor.svg" width="45" height="45" alt="Ktor"/>
-  <img src="https://raw.githubusercontent.com/square/retrofit/master/website/static/logo-square.png" width="45" height="45" alt="Retrofit"/>
-  <img src="https://www.gstatic.com/devrel-devsite/prod/vf4ca81be445caa389d3ffd5c0c7b86ff1cb3670fa10e05e04dde2ee632c0874f/firebase/images/touchicon-180.png" width="45" height="45" alt="Firebase"/>
-  <img src="https://insert-koin.io/img/koin_new_logo.png" width="45" height="45" alt="Koin"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="SQLite"/>
-  <img src="https://avatars.githubusercontent.com/u/1470893?s=200&v=4" width="45" height="45" alt="Room"/>
-  <img src="https://coil-kt.github.io/coil/logo.svg" width="45" height="45" alt="Coil"/>
-  <img src="https://ktor.io/assets/images/ktor_logo.svg" width="45" height="45" alt="Ktor Server"/>
-</p>
-
-<p align="left">
-  <!-- Row 3: Machine Learning & Computer Vision -->
-  <img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" width="45" height="45" alt="TensorFlow"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="java"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45" height="45" alt="android"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45" height="45" alt="kotlin"/>
+   <img src ="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png" width="45" height="45" alt="kotlin"/>
   <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" width="45" height="45" alt="OpenCV"/>
-  <img src="https://avatars.githubusercontent.com/u/3269481?s=200&v=4" width="45" height="45" alt="MyScript"/>
-  <img src="https://www.gstatic.com/devrel-devsite/prod/v2210deb8920cd4a55bd580441aa58e7853afc04b39a9d9ac4198e1cd7fbe04ef/tensorflow/images/lockup.svg" width="45" height="45" alt="TensorFlow Lite"/>
-  <img src="https://developer.android.com/static/images/cluster-illustrations/ml-kit.svg" width="45" height="45" alt="ML Kit"/>
-  <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="45" height="45" alt="JSON"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="45" height="45" alt="Material Design"/>
-  <img src="https://raw.githubusercontent.com/bumptech/glide/master/static/glide_logo.png" width="45" height="45" alt="Glide"/>
+  <img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" width="45" height="45" alt="tensorflow"/>
+  <img src="https://avatars.githubusercontent.com/u/3269481?s=200&v=4" width="45" height="45" alt="myscript"/>
+  <img src ="https://brandlogos.net/wp-content/uploads/2025/03/firebase_icon-logo_brandlogos.net_tcvck-768x969.png" width="45" height="45"" alt="firebase"/>
 </p>
-
+<p align="left">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="SQLite"/>
+   <img src="https://avatars.githubusercontent.com/u/1470893?s=200&v=4" width="45" height="45" alt="Room"/>
+   <img src ="https://icon.icepanel.io/Technology/svg/Ktor.svg" width="45" height="45" alt="ktor"/>
+   <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" width="45" height="45" alt="Gradle"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/
+</p>
 
 <h4>📱 Android Development</h4>
 <ul>
