@@ -16,6 +16,9 @@
         <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png" width="45" height="45" alt="Jetpack Compose"/>
       </td>
       <td align="center" style="background-color: white; border-radius: 10px; padding: 10px; margin: 5px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" width="45" height="45" alt="Android Studio"/>
+      </td>
+      <td align="center" style="background-color: white; border-radius: 10px; padding: 10px; margin: 5px;">
         <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" width="45" height="45" alt="OpenCV"/>
       </td>
       <td align="center" style="background-color: white; border-radius: 10px; padding: 10px; margin: 5px;">
@@ -24,11 +27,11 @@
       <td align="center" style="background-color: white; border-radius: 10px; padding: 10px; margin: 5px;">
         <img src="https://avatars.githubusercontent.com/u/3269481?s=200&v=4" width="45" height="45" alt="MyScript"/>
       </td>
+    </tr>
+    <tr>
       <td align="center" style="background-color: white; border-radius: 10px; padding: 10px; margin: 5px;">
         <img src="https://brandlogos.net/wp-content/uploads/2025/03/firebase_icon-logo_brandlogos.net_tcvck-768x969.png" width="45" height="45" alt="Firebase"/>
       </td>
-    </tr>
-    <tr>
       <td align="center" style="background-color: white; border-radius: 10px; padding: 10px; margin: 5px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="SQLite"/>
       </td>
