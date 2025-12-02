@@ -1,15 +1,35 @@
-### 🧰 Tech Stack
+### 🧰 Tech Stack & Expertise
+
 <p align="left">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="java"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" alt="android"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="kotlin"/>
-   <img src ="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png" width="40" height="40" alt="kotlin"/>
-  <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" width="40" height="40" alt="OpenCV"/>
-  <img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" width ="40" height="40" alt="tensorflow"/>
-  <img src="https://avatars.githubusercontent.com/u/3269481?s=200&v=4" width ="40" height="40" alt="myscript"/>
-  <img src ="https://brandlogos.net/wp-content/uploads/2025/03/firebase_icon-logo_brandlogos.net_tcvck-768x969.png" width ="40" height="40" alt="firebase"/>
-   <img src ="https://icon.icepanel.io/Technology/svg/Ktor.svg" width ="40" height="40" alt="ktor"/>
+  <!-- Core Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45" height="45" alt="Kotlin"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  
+  <!-- Android & UI -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45" height="45" alt="Android"/>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png" width="45" height="45" alt="Jetpack Compose"/>
+  <img src="https://developer.android.com/static/images/brand/Android_Robot.png" width="45" height="45" alt="Material Design"/>
+  
+  <!-- Architecture & Database -->
+  <img src="https://insert-koin.io/img/koin_new_logo.png" width="45" height="45" alt="Koin"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="SQLite"/>
+  
+  <!-- Networking & Backend -->
+  <img src="https://icon.icepanel.io/Technology/svg/Ktor.svg" width="45" height="45" alt="Ktor"/>
+  <img src="https://square.github.io/retrofit/static/logo-square.png" width="45" height="45" alt="Retrofit"/>
+  <img src="https://brandlogos.net/wp-content/uploads/2025/03/firebase_icon-logo_brandlogos.net_tcvck-768x969.png" width="45" height="45" alt="Firebase"/>
+  
+  <!-- Machine Learning & Computer Vision -->
+  <img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" width="45" height="45" alt="TensorFlow"/>
+  <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" width="45" height="45" alt="OpenCV"/>
+  <img src="https://avatars.githubusercontent.com/u/3269481?s=200&v=4" width="45" height="45" alt="MyScript"/>
+  
+  <!-- Multiplatform & Tools -->
+  <img src="https://cdn.worldvectorlogo.com/logos/kotlin-multiplatform.svg" width="45" height="45" alt="Kotlin Multiplatform"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="45" height="45" alt="Gradle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
 </p>
+
 
 <h4>📱 Android Development</h4>
 <ul>
