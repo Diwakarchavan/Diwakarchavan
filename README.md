@@ -45,7 +45,7 @@
         <img src="https://icon.icepanel.io/Technology/svg/Ktor.svg" width="45" height="45" alt="Ktor"/>
       </td>
       <td align="center" style="background-color: white; border-radius: 10px; padding: 10px; margin: 5px;">
-        <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" width="45" height="45" alt="Gradle"/>
+        <img src="https://icons.veryicon.com/png/o/file-type/file-type-icon-library/gradle.png" width="45" height="45" alt="Gradle"/>
       </td>
       <td align="center" style="background-color: white; border-radius: 10px; padding: 10px; margin: 5px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
