@@ -6,6 +6,7 @@
   <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" width="40" height="40" alt="OpenCV"/>
   <img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" width ="40" height="40" alt="tensorflow"/>
   <img src="https://avatars.githubusercontent.com/u/3269481?s=200&v=4" width ="40" height="40" alt="myscript"/>
+   <img src ="https://images.seeklogo.com/logo-png/61/1/firebase-icon-logo-png_seeklogo-615938.png" width ="40" height="40" alt="firebase"/>
 </p>
 
 <h4>📱 Android Development</h4>
