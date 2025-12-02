@@ -44,6 +44,9 @@
       <td align="center" style="background-color: white; border-radius: 10px; padding: 10px; margin: 5px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
       </td>
+      <td align="center" style="background-color: white; border-radius: 10px; padding: 10px; margin: 5px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/GitLab_icon.svg" width="45" height="45" alt="Git Lab"/>
+      </td>
     </tr>
   </table>
 </div>
