@@ -2,7 +2,8 @@
 <p align="left">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="java"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" alt="android"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="kotlin"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="kotlin"/>
+   <img src ="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png" width="40" height="40" alt="kotlin"/>
   <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" width="40" height="40" alt="OpenCV"/>
   <img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" width ="40" height="40" alt="tensorflow"/>
   <img src="https://avatars.githubusercontent.com/u/3269481?s=200&v=4" width ="40" height="40" alt="myscript"/>
