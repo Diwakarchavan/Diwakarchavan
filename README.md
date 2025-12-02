@@ -33,9 +33,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="SQLite"/>
       </td>
       <td align="center" style="background-color: white; border-radius: 10px; padding: 10px; margin: 5px;">
-        <img src="https://avatars.githubusercontent.com/u/1470893?s=200&v=4" width="45" height="45" alt="Room"/>
-      </td>
-      <td align="center" style="background-color: white; border-radius: 10px; padding: 10px; margin: 5px;">
         <img src="https://icon.icepanel.io/Technology/svg/Ktor.svg" width="45" height="45" alt="Ktor"/>
       </td>
       <td align="center" style="background-color: white; border-radius: 10px; padding: 10px; margin: 5px;">
