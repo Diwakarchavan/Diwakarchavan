@@ -36,7 +36,7 @@
         <img src="https://cordova.apache.org/static/img/cordova_bot.png" width="45" height="45" alt="Cordova"/>
       </td>
       <td align="center" style="background-color: white; border-radius: 10px; padding: 10px; margin: 5px;">
-        <img src="https://www.omniesolutions.com/common/images/news/ibm-worklight-detail.jpg" width="45" height="45" alt="IBM Worklight"/>
+        <img src="https://i0.wp.com/bluepointmobile.com/wp-content/uploads/2020/03/Worklight.png" width="45" height="45" alt="IBM Worklight"/>
       </td>
       <td align="center" style="background-color: white; border-radius: 10px; padding: 10px; margin: 5px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="SQLite"/>
