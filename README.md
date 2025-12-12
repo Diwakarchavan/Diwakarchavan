@@ -102,21 +102,6 @@
 </ul>
 
 
-![Profile Hits](https://komarev.com/ghpvc/?username=Diwakarchavan&color=green) \
+![Profile Hits](https://komarev.com/ghpvc/?username=Diwakarchavan&color=green) 
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=Diwakarchavan&show_icons=true)](https://github.com/Diwakarchavan)
-
-
-
-# Hi there 👋
-
-## GitHub Statistics
-
-![Profile Views](https://komarev.com/ghpvc/?username=Diwakarchavan&color=blueviolet&style=flat-square)
-
-
-# 📊 GitHub Stats
-
-![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DDiwakarchavan&style=for-the-badge)
-
-
-
