@@ -113,16 +113,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Diwakarchavan&color=blueviolet&style=flat-square)
 
-### Stats Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diwakarchavan&show_icons=true&theme=tokyonight&count_private=true)
 
-### Contribution Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Diwakarchavan&theme=tokyonight)](https://github.com/Diwakarchavan)
+# 📊 GitHub Stats
 
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diwakarchavan&layout=compact&theme=tokyonight&langs_count=8)
+![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DDiwakarchavan&style=for-the-badge)
 
-### Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=Diwakarchavan&theme=tokyonight&row=1&column=7)](https://github.com/Diwakarchavan)
 
 
