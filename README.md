@@ -105,3 +105,24 @@
 ![Profile Hits](https://komarev.com/ghpvc/?username=Diwakarchavan&color=green) \
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=Diwakarchavan&show_icons=true)](https://github.com/Diwakarchavan)
 
+
+
+# Hi there 👋
+
+## GitHub Statistics
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+
+### Stats Overview
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true)
+
+### Contribution Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)](https://github.com/YOUR_USERNAME)
+
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&langs_count=8)
+
+### Achievements
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7)](https://github.com/YOUR_USERNAME)
+
+
