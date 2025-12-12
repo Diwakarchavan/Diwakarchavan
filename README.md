@@ -111,18 +111,18 @@
 
 ## GitHub Statistics
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Diwakarchavan&color=blueviolet&style=flat-square)
 
 ### Stats Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diwakarchavan&show_icons=true&theme=tokyonight&count_private=true)
 
 ### Contribution Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)](https://github.com/YOUR_USERNAME)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Diwakarchavan&theme=tokyonight)](https://github.com/Diwakarchavan)
 
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diwakarchavan&layout=compact&theme=tokyonight&langs_count=8)
 
 ### Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7)](https://github.com/YOUR_USERNAME)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Diwakarchavan&theme=tokyonight&row=1&column=7)](https://github.com/Diwakarchavan)
 
 
